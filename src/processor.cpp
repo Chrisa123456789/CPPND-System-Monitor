@@ -1,5 +1,6 @@
 #include "processor.h"
 #include "linux_parser.h"
+#include <math.h>
 
 
 //Return the aggregate CPU utilization 
